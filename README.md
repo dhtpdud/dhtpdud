@@ -1,6 +1,6 @@
 <p align="center">
 
-![Wide Me](https://user-images.githubusercontent.com/1351568/105971689-25e18c00-60ce-11eb-8e6f-ad84fd149366.png)
+![Wide Me](https://user-images.githubusercontent.com/1351568/106020240-e5eacb00-6106-11eb-8e8c-1a49410dbf18.png)
 
 </p>
 
