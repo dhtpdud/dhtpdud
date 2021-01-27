@@ -4,7 +4,7 @@
 
 </p>
 
-<h2 align="center">🛠 My Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
-<h2 align="center">📦 My Projects</h2>
+<h2 align="center">📦 Projects</h2>
 <p align="center">
 
 ### Published
