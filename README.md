@@ -43,6 +43,7 @@
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dhtpdud528@gmail.com)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/user/dhtpdud528)
 [<img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">](https://open.kakao.com/me/GDVG)
+[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528)
 
 <!--
 **dhtpdud/dhtpdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
