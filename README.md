@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
-<h2 align="center">📖 Learning about...</h2>
+<h2 align="center">📖 Sub Skills...</h2>
 
 - [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
 <!--
