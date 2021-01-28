@@ -34,6 +34,7 @@
 |**Naver WebToon Downloader**| 2019. 06. 03. ~<br> 2019. 06. 10. | PC, 2D, **Utility App** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/naverweptoondownloader)|
 
 <h2 align="center">📖 Learning about...</h2>
+
 - [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
 
 
