@@ -36,6 +36,7 @@
 <h2 align="center">📖 Learning about...</h2>
 
 - [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
+- [Unity VFX](https://gitlab.com/dhtpdud528/unityvfxsturdy)
 
 
 ## 📫Contects
