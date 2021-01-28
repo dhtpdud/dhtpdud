@@ -16,7 +16,6 @@
 </p>
 
 <h2 align="center">📦 Projects</h2>
-<p align="center">
 
 ### Published
 |         Name         |   Development Period    |             Contents             | Publish | Repo |
@@ -34,7 +33,9 @@
 |   **XY Gravity 1960**    | 2019. 10. 07. ~<br> 2019. 10. 27. | Android, 2D, **Puzzle Game** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/xygravity1960)|
 |**Naver WebToon Downloader**| 2019. 06. 03. ~<br> 2019. 06. 10. | PC, 2D, **Utility App** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/naverweptoondownloader)|
 
-</p>
+<h2 align="center">📖 Learning about...</h2>
+- [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
+
 
 ## 📫Contects
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dhtpdud528@gmail.com)
