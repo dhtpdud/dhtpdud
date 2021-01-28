@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
+<h2 align="center">📖 Learning about...</h2>
+
+- [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
+- [Unity VFX](https://gitlab.com/dhtpdud528/unityvfxstudy)
+
 <h2 align="center">📦 Projects</h2>
 
 ### Published
@@ -32,12 +37,6 @@
 |      **Red Rings**       | 2019. 04. ~<br> 2019. 06. 04.  |     Android, VR, **Horror FPS Game**      |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/hallym_vrproject)|
 |        **Dounut!**       | 2019. 09. 27. ~<br> 2019. 10. 29. | Android, AR, **Puzzle Game**  |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/hallym_arproject)|
 |**Naver WebToon Downloader**| 2019. 06. 03. ~<br> 2019. 06. 10. | PC, 2D, **Utility App** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/naverweptoondownloader)|
-
-<h2 align="center">📖 Learning about...</h2>
-
-- [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
-- [Unity VFX](https://gitlab.com/dhtpdud528/unityvfxstudy)
-
 
 ## 📫Contects
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dhtpdud528@gmail.com)
