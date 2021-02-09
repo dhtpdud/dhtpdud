@@ -45,7 +45,7 @@
 |        **Dounut!**       | 2019. 09. 27. ~<br> 2019. 10. 29. | Android, AR, **Puzzle Game**  |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/hallym_arproject)|
 |**Naver WebToon Downloader**| 2019. 06. 03. ~<br> 2019. 06. 10. | PC, 2D, **Utility App** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/naverweptoondownloader)|
 
-## 📫Contacts
+## 📫Contact
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dhtpdud528@gmail.com)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/user/dhtpdud528)
 [<img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white">](https://open.kakao.com/me/GDVG)
