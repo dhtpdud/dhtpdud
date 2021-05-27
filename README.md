@@ -10,7 +10,9 @@
 ↓↓↓↓↓
 </p>
 
-[<p align="center"> <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=onedrive&logoColor=white"> </p>](https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4)
+[<p align="center"> <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> </p>](https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4)
+
+[<p align="center"> <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=google&logoColor=white"> </p>](https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4)
 
 <p align="center">
 ↑↑↑↑↑
