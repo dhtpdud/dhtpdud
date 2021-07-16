@@ -52,7 +52,7 @@
 ### Etc Repositories...
 |         Name         |   Development Period    |             Contents             | Publish | Repo |
 | :------------------: | :---------------------: | :------------------------------: | :-----: | :--: |
-| **My Little Wallpater**  | 2020. 09. 16. ~<br> 2020. 12. 16.  |     Android, 3D, **Wallpaper App**      |        |[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">](https://github.com/dhtpdud/2020_CapstoneDesign)|
+| **My Little Wallpater**  | 2020. 09. 16. ~<br> 2020. 12. 16.  |     Android, 3D, **Wallpaper App**      |        |[<img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=Azure&logoColor=white">](https://dev.azure.com/OhSeyoung/_git/My%20Little%20Wallpaper)|
 |   **XY Gravity 1960**    | 2019. 10. 07. ~<br> 2019. 10. 27. | Android, 2D, **Puzzle Game** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/xygravity1960)|
 |        **Dounut!**       | 2019. 09. 27. ~<br> 2019. 10. 29. | Android, AR, **Puzzle Game**  |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/hallym_arproject)|
 |**Naver WebToon Downloader**| 2019. 06. 03. ~<br> 2019. 06. 10. | PC, 2D, **Utility App** |        |[<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">](https://gitlab.com/dhtpdud528/naverweptoondownloader)|
