@@ -4,6 +4,9 @@
 
 </p>
 
+<h2 align="center">📝 Resume & CV</h2>
+
+[<p align="center"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </p>](https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4)
 
 <h2 align="center">💼 Portfolio</h2>
 <p align="center">
