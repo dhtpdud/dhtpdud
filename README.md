@@ -1,8 +1,6 @@
-<p align="center">
+<p align="center"> <img src="https://user-images.githubusercontent.com/1351568/106020240-e5eacb00-6106-11eb-8e8c-1a49410dbf18.png"> </p>
 
-![Wide Me](https://user-images.githubusercontent.com/1351568/106020240-e5eacb00-6106-11eb-8e8c-1a49410dbf18.png)
-
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhtpdud&style=for-the-badge&color=yellow"> </p>
 
 <h2 align="center">📝 Resume & CV</h2>
 
