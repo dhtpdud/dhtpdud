@@ -13,8 +13,6 @@
 
 <p align="center"> <a href="https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4"> <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"></a></p>
 
-<p align="center"> <a href="https://drive.google.com/file/d/1zH0rd1i_li9-2g0Xco4xgoouhTrO5Wwt/view?usp=sharing"> <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=google&logoColor=white"></a></p>
-
 <p align="center">
 ↑↑↑↑↑
 </p>
