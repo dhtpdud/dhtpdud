@@ -21,8 +21,6 @@
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=Blender&logoColor=white">
 <br>
 <br>
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C#&logoColor=white">
