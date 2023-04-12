@@ -4,7 +4,7 @@
 
 <h2 align="center">📝 Resume & CV</h2>
 
-<p align="center"> <a href="https://www.notion.so/b5a2bded71c04469acdd1852feee8872"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a> </p> 
+<p align="center"> <a href="https://www.notion.so/b5a2bded71c04469acdd1852feee8872?pvs=4"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> </a> </p> 
 
 <h2 align="center">💼 Portfolio</h2>
 <p align="center">
