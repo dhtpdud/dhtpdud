@@ -32,14 +32,16 @@
 
 <h2 align="center">📖 Sub Skills...</h2>
 
-- [Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
-<!--
-  - <img src="https://user-images.githubusercontent.com/1351568/106151390-a59b5380-61bf-11eb-864b-59bf0b2202c8.jpg"  width="100">
--->
-- [Unity VFX](https://gitlab.com/dhtpdud528/unityvfxstudy)
-<!--
-  - <img src="https://user-images.githubusercontent.com/1351568/106151037-46d5da00-61bf-11eb-9dd2-7308ad13a26e.gif"  width="100">
--->
+<div align="center">
+
+[Design Patterns](https://github.com/dhtpdud/DesignPatternStudy/wiki)
+
+<img src="https://user-images.githubusercontent.com/1351568/106151390-a59b5380-61bf-11eb-864b-59bf0b2202c8.jpg"  width="100">
+
+[Unity VFX](https://gitlab.com/dhtpdud528/unityvfxstudy)  
+
+<img src="https://user-images.githubusercontent.com/1351568/106151037-46d5da00-61bf-11eb-9dd2-7308ad13a26e.gif"  width="100">
+</div>
 
 <h2 align="center">📦 Projects</h2>
 
