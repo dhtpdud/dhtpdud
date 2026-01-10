@@ -8,7 +8,6 @@
 
 <h2 align="center">💼 Portfolio</h2>
 <p align="center">
-↓↓↓↓↓
 </p>
 
 <p align="center"> DOTS(2025 ~) <br> <a href="https://github.com/dhtpdud/Unity-DOTS-Web-2D-Physics"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a> </p>
@@ -20,7 +19,6 @@
 <p align="center"> 졸업 작품(2020) <br> <a href="https://dev.azure.com/OhSeyoung/_git/My%20Little%20Wallpaper"> <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"></a> <br> <a href="https://1drv.ms/b/s!AjfJl4BDGSI2vXKiMYyvF5BwdaKB?e=8cL4m4"> <img src="https://img.shields.io/badge/PDF File-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white"></a></p>
 
 <p align="center">
-↑↑↑↑↑
 </p>
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
